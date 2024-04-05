@@ -1,0 +1,98 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 50px 50px 0 50px;
+  background-color: #faf9f6;
+  display: flex;
+  flex-direction: column;
+  min-height: 95vh;
+}
+.main {
+  flex: 1;
+}
+
+h1 {
+  font-size: 5rem;
+    position:absolute;
+    left: 5px;
+    top: 100px;
+    font-size: 40px;
+    
+}
+
+footer {
+  text-align: right;
+  color: midnightblue;
+}
+
+.logo{
+  background-image: url(assets/images/logo.png);
+  background-position: center;
+  margin-top: -100px;
+  margin-left: -100px;
+  margin-right: -100px;
+  width:150%
+  }
+
+  .br{
+    margin-left: 25%;
+    display:inline-block;
+    width: 800px;
+    text-align:center;
+  }
+.card-title {
+  text-align: center;
+  margin-top: 100px;
+ }
+ .card-text{
+  text-align:center;
+ }
+ .cargo{
+  float:left;
+  width: 500px;
+  height: 400px;
+}
+.br2{
+  display:block;
+  margin-left: 525px;
+  text-align:left;
+}
+
+.rightcard{
+  margin-left: -100px;
+  background-color: silver;
+  height: 500px;
+}
+
+.license{
+  transform: rotate(8deg);
+   margin-top: -375px ;
+   margin-left: 640px;
+  position: absolute;
+  width: 175px;
+  
+}
+
+
+.dot{
+transform: rotate(8deg);
+   margin-top: -330px ;
+   margin-left: 680px;
+  position: absolute;
+  font-size: 20px;
+}
+
+.loading{
+  float: right;
+  width: 600px;
+  }
+
+  .mission{
+    margin-left: -100px;
+    background-color: antiquewhite;
+    height: 500px;
+    margin-top: -100px;
+  }
+  
+.br3{
+  margin-left: 70px;
+}
